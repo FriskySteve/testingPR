@@ -19,6 +19,7 @@ export default function Home() {
           <div>
             <h1>Zmiany test-01</h1>
             <h1>Zmiany test-02</h1>
+            <h1>Zmiany test-03</h1>
           </div>
           <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
             Looking for a starting point or more instructions? Head over to{" "}
