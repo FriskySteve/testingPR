@@ -17,7 +17,6 @@ export default function Home() {
             To get started, edit the page.tsx file.
           </h1>
           <div>
-            <h1>Zmiany test-01</h1>
             <h1>Zmiany test-02</h1>
           </div>
           <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
@@ -52,15 +51,6 @@ export default function Home() {
               width={16}
               height={16}
             />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
           </a>
         </div>
       </main>
